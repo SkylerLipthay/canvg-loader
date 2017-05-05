@@ -1,0 +1,24 @@
+{
+  "name": "canvg-loader",
+  "version": "1.0.0",
+  "description": "Convert SVG to JS canvas commands using canvg",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SkylerLipthay/canvg-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "compile",
+    "canvas",
+    "svg"
+  ],
+  "author": "Skyler Lipthay",
+  "license": "MIT",
+  "homepage": "https://github.com/SkylerLipthay/canvg-loader",
+  "dependencies": {
+    "canvg-client": "0.0.1",
+    "jsdom": "^10.1.0"
+  }
+}
